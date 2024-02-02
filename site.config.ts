@@ -60,10 +60,14 @@ export default siteConfig({
      {
        title: 'Contact',
        pageId: '621083cc75154bbf8c6233d080af0f1c'
-     }
+     },
      {
        title: 'Books',
        pageId: '156ec87356ec4c209f26062640b9e30b'
+     },
+     {
+       title: 'test',
+       pageId: '000b4871b7784e44be079cf3b2746b2b'
      }
    ]
 })
