@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'Marklin',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'A notion blog by marklin',
 
   // social usernames (optional)
   twitter: 'linmugua',
-  //github: 'transitive-bullshit',
+  // github: 'transitive-bullshit',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
