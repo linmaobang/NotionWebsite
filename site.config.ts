@@ -68,6 +68,10 @@ export default siteConfig({
      {
        title: 'test',
        pageId: '000b4871b7784e44be079cf3b2746b2b'
+     },
+     {
+       title: 'Mark的个人图书馆（模板）',
+       pageId: '64327d21260b451e93718f21e69b63e4'
      }
    ]
 })
